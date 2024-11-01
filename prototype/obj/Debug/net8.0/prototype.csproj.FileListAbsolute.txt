@@ -1,0 +1,14 @@
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\bin\Debug\net8.0\prototype.exe
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\bin\Debug\net8.0\prototype.deps.json
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\bin\Debug\net8.0\prototype.runtimeconfig.json
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\bin\Debug\net8.0\prototype.dll
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\bin\Debug\net8.0\prototype.pdb
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.AssemblyInfoInputs.cache
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.AssemblyInfo.cs
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.dll
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\refint\prototype.dll
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.pdb
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\prototype.genruntimeconfig.cache
+C:\Users\thegenathor17\OneDrive\Escritorio\Carpetas\Programacion\CL#\prototype\obj\Debug\net8.0\ref\prototype.dll
