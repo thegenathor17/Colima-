@@ -9,6 +9,7 @@ class Program
         Console.WriteLine("Hello World! What will we program today?");
         Console.WriteLine("Write your code:");
         choice = Console.ReadLine();
+        //Is Null?
         if (choice == null)
         {
             while(choice == null)
@@ -17,7 +18,9 @@ class Program
                 choice = Console.ReadLine();
             }
         }
-        Reader.Spliter(choice);
+        //calling the reader
+        Reader reader = new Reader();
+        reader.Spliter(choice);
         // Main loop
         /*while(true)
         {
